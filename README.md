@@ -38,6 +38,7 @@ Other stuff worth checking out and worth remembering for future projects:
 ---
 
 [Basic HTML and JS](https://github.com/ekam230/vue-cheat-sheet#basic-html-and-js)
+[HTML Directives](#html-directives)
 
 ## Basic HTML and JS
 ```html
