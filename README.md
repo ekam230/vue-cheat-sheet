@@ -37,8 +37,8 @@ Other stuff worth checking out and worth remembering for future projects:
 * [Serve builded files over HTTP](https://www.npmjs.com/package/serve)
 ---
 
-[Basic HTML and JS](https://github.com/ekam230/vue-cheat-sheet#basic-html-and-js)
-[HTML Directives](https://github.com/ekam230/vue-cheat-sheet#html-directives)
+* [Basic HTML and JS](https://github.com/ekam230/vue-cheat-sheet#basic-html-and-js)
+* [HTML Directives](https://github.com/ekam230/vue-cheat-sheet#html-directives)
 
 ## Basic HTML and JS
 ```html
